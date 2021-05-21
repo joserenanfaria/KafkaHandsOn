@@ -38,6 +38,6 @@ services:
 :speech_balloon:(Salve o arquivo e execute no mesmo diretório o comando _docker-compose up -d_)
 
 Fica também a sugestão de instalar alguma ferramenta para visualizar as informações:
-[Conduktor](https://www.conduktor.io/) -> Utilizaremos essa na apresentação
-[Kafka Magic](https://www.kafkamagic.com/)
-[Kafka Tool](https://www.kafkatool.com/)
+* [Conduktor](https://www.conduktor.io/) -> Utilizaremos essa na apresentação
+* [Kafka Magic](https://www.kafkamagic.com/)
+* [Kafka Tool](https://www.kafkatool.com/)
