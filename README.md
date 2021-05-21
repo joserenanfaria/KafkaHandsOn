@@ -1,5 +1,5 @@
 # KafkaHandsOn
-Construção de uma aplicação simples para exemplificar a implementação de um  __producer__ e um __consumer__ na plataforma .NET, explorando opções de performance e segurança.
+Construção de uma aplicação simples para exemplificar a implementação de um  __producer__ e um __consumer__ na plataforma .NET.
 
 Para realizar os testes, utilizaremos o kafka localmente através do docker. :space_invader:
 
